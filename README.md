@@ -2,7 +2,7 @@
 
 NaviNomad Explorer is a web application built with React that allows users to search and discover information about countries from around the world. With a simple and intuitive interface, users can quickly find details such as population, currency, languages, and more. Additionally, users can mark their favorite countries for easy access in the future.
 
-![screenshot of the site](/images/screenshot.png)
+![screenshot of the site](public/images/screenshot.png)
 
 **Check Out the Site:** [NaviNomad Explorer] (https://navi-nomad-react.vercel.app/)
 
