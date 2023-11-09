@@ -4,7 +4,7 @@ NaviNomad Explorer is a web application built with React that allows users to se
 
 ![screenshot of the site](./images/image.png)
 
-**Check Out the Site:** [NaviNomad Explorer](https://travel-destination-explorer.vercel.app/)
+**Check Out the Site:** [NaviNomad Explorer] (https://navi-nomad-react.vercel.app/)
 
 ## Features 🚀
 
@@ -24,7 +24,7 @@ A modern web browser (e.g., Chrome, Firefox, Safari, Edge).
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/suleosmann/travel-Destination-explorer.git
+   git clone git@github.com:suleosmann/navi-nomad-react.gi
 
 2. Navigate to the project directory:
 
