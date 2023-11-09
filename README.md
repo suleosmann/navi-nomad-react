@@ -24,11 +24,13 @@ A modern web browser (e.g., Chrome, Firefox, Safari, Edge).
 1. Clone the repository:
    
    ```bash
-   git clone git@github.com:suleosmann/navi-nomad-react.gi
+   git clone git@github.com:suleosmann/navi-nomad-react.git
+
 
 2. Navigate to the project directory:
 
-   cd travel-Destination-explorer
+   cd navi-nomad-react
+
 
 3. Run the app locally:
    
