@@ -63,3 +63,7 @@ A modern web browser (e.g., Chrome, Firefox, Safari, Edge).
 A massive shoutout to [RestCountries](https://restcountries.com/) for their incredible API. This project stands on the shoulders of giants.
 
 Heartfelt gratitude to all open-source contributors and the vibrant community for their endless inspiration.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
