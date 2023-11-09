@@ -27,6 +27,7 @@ A modern web browser (e.g., Chrome, Firefox, Safari, Edge).
    git clone git@github.com:suleosmann/navi-nomad-react.git
 
 
+
 2. Navigate to the project directory:
 
    cd navi-nomad-react
